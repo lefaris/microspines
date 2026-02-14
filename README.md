@@ -7,13 +7,11 @@
 
 Supplemental data and processing code for **"Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain"** presented at IEEE ICRA 2025.
 
-**Authors:** **Lauren Ervin<sup>✉</sup>**, Harish Bezawada, and Vishesh Vikas  
-**Affiliation:** Agile Robotics Laboratory, University of Alabama  
-**Award:** 🏆 Best Paper Award at ICRA 2025 Workshop on Soft Robotics for Space Applications
+**Best Paper Award** at ICRA 2025 Workshop on Soft Robotics for Space Applications
 
 ---
 
-![Microspines Graphical Abstract](/ICRA%202025%20Microspines%20Graphical%20Abstract.png)
+![Microspines Demo](media/microspines.gif)
 
 
 ## Overview
@@ -38,9 +36,8 @@ This repository contains experimental data and visualization code supporting our
 microspines/
 ├── data/                           # Experimental tracking data
 │   └── [Surface-specific datasets with AprilTag results]
-├── microspine_bar_chart.py         # Displacement visualization (bar charts)
-├── microspines_ellipse.py          # Gait trajectory visualization (ellipses)
-└── ICRA 2025 Microspines Graphical Abstract.png
+├── data_analysis/                  # Displacement/consistency metrics
+└── media/                          # Figures and visualizations
 ```
 
 ### Data Processing Scripts
