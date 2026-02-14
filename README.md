@@ -7,7 +7,7 @@
 
 Supplemental data and processing code for **"Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain"** presented at IEEE ICRA 2025.
 
-**Award:** Best Paper Award at ICRA 2025 Workshop on Soft Robotics for Space Applications
+**Best Paper Award** at ICRA 2025 Workshop on Soft Robotics for Space Applications
 
 ---
 
