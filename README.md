@@ -7,9 +7,7 @@
 
 Supplemental data and processing code for **"Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain"** presented at IEEE ICRA 2025.
 
-**Authors:** **Lauren Ervin<sup>✉</sup>**, Harish Bezawada, and Vishesh Vikas  
-**Affiliation:** Agile Robotics Laboratory, University of Alabama  
-**Award:** 🏆 Best Paper Award at ICRA 2025 Workshop on Soft Robotics for Space Applications
+**Award:** Best Paper Award at ICRA 2025 Workshop on Soft Robotics for Space Applications
 
 ---
 
